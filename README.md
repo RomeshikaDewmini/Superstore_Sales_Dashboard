@@ -9,7 +9,7 @@ An interactive **Sales Performance Dashboard** built in **Microsoft Excel** usin
 ## 📊 Dashboard Preview
 
 <div align="center">
-  <img src="Images/Dashboard_Screenshot.png" alt="Sales Performance Dashboard" width="900">
+  <img src="Images/image1.jpeg" alt="Sales Performance Dashboard" width="900">
   <br>
   <em>Interactive Sales Dashboard with KPIs, Charts, and Slicers</em>
 </div>
