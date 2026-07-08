@@ -39,30 +39,32 @@ An interactive **Sales Performance Dashboard** built in **Microsoft Excel** usin
 ---
 
 ## 📁 Project Structure
+
+```
 📁 Superstore_Sales_Dashboard/
 │
-├── 📄 README.md # Project Documentation
-├── 📄 LICENSE # MIT License
+├── 📄 README.md                          # Project Documentation
+├── 📄 LICENSE                             # MIT License
 │
 ├── 📁 Dashboard/
-│ └── Sales_Dashboard_Final.xlsx # Main Dashboard File
+│   └── Sales_Dashboard_Final.xlsx         # Main Dashboard File
 │
 ├── 📁 Data/
-│ └── Superstore_Data_Cleaned.xlsx # Cleaned Dataset
+│   └── Superstore_Data_Cleaned.xlsx       # Cleaned Dataset
 │
 ├── 📁 Images/
-│ ├── Dashboard_Screenshot.png # Dashboard Preview
-│ └── Dashboard_Preview_HD.png # HD Version
+│   ├── Dashboard_Screenshot.png           # Dashboard Preview
+│   └── Dashboard_Preview_HD.png           # HD Version
 │
 ├── 📁 Documentation/
-│ ├── Project_Overview.md
-│ ├── Business_Insights.md
-│ ├── Technical_Specs.md
-│ └── User_Guide.md
+│   ├── Project_Overview.md
+│   ├── Business_Insights.md
+│   ├── Technical_Specs.md
+│   └── User_Guide.md
 │
 └── 📁 Scripts/
-└── PowerQuery_Scripts.txt # M Code
-
+    └── PowerQuery_Scripts.txt             # M Code
+```
 
 ---
 
@@ -103,76 +105,86 @@ An interactive **Sales Performance Dashboard** built in **Microsoft Excel** usin
 ## 🚀 How to Use
 
 ### Step 1: Download
+
 ```bash
 git clone https://github.com/RomeshikaDewmini/Superstore_Sales_Dashboard.git
+```
 
-Step 2: Open Excel File
-Navigate to Dashboard/Sales_Dashboard_Final.xlsx
+### Step 2: Open Excel File
+1. Navigate to `Dashboard/Sales_Dashboard_Final.xlsx`
+2. Open in Microsoft Excel (2016 or later)
 
-Open in Microsoft Excel (2016 or later)
+### Step 3: Enable Content
+1. Click **"Enable Editing"**
+2. Click **"Enable Content"** (if prompted)
 
-Step 3: Enable Content
-Click "Enable Editing"
-
-Click "Enable Content" (if prompted)
-
-Step 4: Explore Dashboard
+### Step 4: Explore Dashboard
 Use Slicers to filter data:
+- 🌍 **Region:** Select specific regions
+- 📂 **Category:** Filter by product category
+- 📅 **Year:** View specific years
 
-🌍 Region: Select specific regions
+### Step 5: Interact
+- All charts update automatically
+- Hover over charts for details
+- Read insights for business decisions
 
-📂 Category: Filter by product category
+---
 
-📅 Year: View specific years
+## 📌 Skills Demonstrated
 
-Step 5: Interact
-All charts update automatically
+| Skill Area | Specific Skills |
+|------------|------------------|
+| Data Analysis | Pivot Tables, Data Cleaning, Data Modeling |
+| Data Visualization | Charts, Dashboards, Conditional Formatting |
+| Business Intelligence | KPI Tracking, Performance Analysis |
+| Excel Advanced | Power Query, DAX, Slicers |
+| Reporting | Interactive Dashboards, Executive Summaries |
 
-Hover over charts for details
+---
 
-Read insights for business decisions
+## 📊 Dataset Information
 
-📌 Skills Demonstrated
-Skill Area	Specific Skills
-Data Analysis	Pivot Tables, Data Cleaning, Data Modeling
-Data Visualization	Charts, Dashboards, Conditional Formatting
-Business Intelligence	KPI Tracking, Performance Analysis
-Excel Advanced	Power Query, DAX, Slicers
-Reporting	Interactive Dashboards, Executive Summaries
-📊 Dataset Information
-Source: Kaggle Superstore Dataset
+**Source:** Kaggle Superstore Dataset
 
-Metric	Value
-Records	9,994
-Columns	21
-Date Range	2020-2023
-Regions	4 (West, East, Central, South)
-Categories	3 (Technology, Furniture, Office Supplies)
-🔗 Links
-GitHub Repository: https://github.com/RomeshikaDewmini/Superstore_Sales_Dashboard
+| Metric | Value |
+|--------|-------|
+| Records | 9,994 |
+| Columns | 21 |
+| Date Range | 2020-2023 |
+| Regions | 4 (West, East, Central, South) |
+| Categories | 3 (Technology, Furniture, Office Supplies) |
 
-LinkedIn: [Your LinkedIn Profile]
+---
 
-Portfolio: [Your Portfolio Link]
+## 🔗 Links
 
-📄 License
+- **GitHub Repository:** [https://github.com/RomeshikaDewmini/Superstore_Sales_Dashboard](https://github.com/RomeshikaDewmini/Superstore_Sales_Dashboard)
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Portfolio:** [Your Portfolio Link]
+
+---
+
+## 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👤 Author
-Romeshika Dewmini
+---
 
-🎓 Business Analyst | Data Analyst
+## 👤 Author
 
-📊 Passionate about Data Visualization & BI
+**Romeshika Dewmini**
 
-🔗 LinkedIn: [Your LinkedIn]
+- 🎓 Business Analyst | Data Analyst
+- 📊 Passionate about Data Visualization & BI
+- 🔗 LinkedIn: [Your LinkedIn]
+- 📧 Email: romeshikadewmini@gmail.com
 
-📧 Email: romeshikadewmini@gmail.com
-⭐ Support
+---
+
+## ⭐ Support
+
 If you find this project useful:
-
-⭐ Star this repository
-
-🔄 Share with others
-
-📝 Provide feedback
+- ⭐ Star this repository
+- 🔄 Share with others
+- 📝 Provide feedback
